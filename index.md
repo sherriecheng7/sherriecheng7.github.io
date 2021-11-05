@@ -3,10 +3,10 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
+I am a PhD student in the economics department at the University of Pennsylvania. 
 
 ## Current Interests and Projects:
 
 - Website Design
-- [GitHub Pages](http://laderast.github.io)
-- Academia
+- [GitHub Pages](http://sherriecheng7.github.io)
+- Industrial Organization.
