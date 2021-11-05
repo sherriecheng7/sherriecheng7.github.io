@@ -3,7 +3,7 @@ layout: resume
 ---
 ## Currently
 
-[cv](htps://sherriecheng7.github.io/files/Sherrie_Cheng_Resume.pdf)
+[cv](https://sherriecheng7.github.io/files/Sherrie_Cheng_Resume.pdf)
 
 ## Education
 
